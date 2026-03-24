@@ -34,7 +34,9 @@
 <li><a target="_blank" href="https://pouya-shaterzadeh.github.io/docs/opencv_migration/">OpenCV Gazebo ROS 1 to ROS 2 Migration</a></li>
 </ul>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/pouya-shaterzadeh/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/pouya-shaterzadeh-b88426284/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.kaggle.com/pouyashaterzadeh" style="display: inline-block;"><img src="https://img.shields.io/badge/kaggle-logo?style=for-the-badge&logo=kaggle&logoColor=white&color=%2320BEFF" alt="kaggle" /></a>
+<a target="_blank" href="https://pouya-shaterzadeh.github.io" style="display: inline-block;"><img src="https://img.shields.io/badge/website-logo?style=for-the-badge&logo=github&logoColor=white&color=%23121013" alt="website" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pouya-shaterzadeh&show_icons=true&locale=en" alt="pouya-shaterzadeh" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pouya-shaterzadeh&" alt="pouya-shaterzadeh" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pouya-shaterzadeh&show_icons=true&locale=en&layout=compact" alt="pouya-shaterzadeh" /></p>
