@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">PX4 Logo</title>
+  <desc id="desc">Stylized PX4 logotype on a dark background</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="184" height="184" rx="28" fill="url(#bg)"/>
+  <text x="50%" y="58%" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="74" font-weight="700" fill="#e5e7eb" letter-spacing="2">PX4</text>
+</svg>
