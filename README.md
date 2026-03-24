@@ -37,7 +37,8 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/pouya-shaterzadeh-b88426284/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.kaggle.com/pouyashaterzadeh" style="display: inline-block;"><img src="https://img.shields.io/badge/kaggle-logo?style=for-the-badge&logo=kaggle&logoColor=white&color=%2320BEFF" alt="kaggle" /></a>
 <a target="_blank" href="https://pouya-shaterzadeh.github.io" style="display: inline-block;"><img src="https://img.shields.io/badge/website-logo?style=for-the-badge&logo=github&logoColor=white&color=%23121013" alt="website" /></a></p>
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=183989729" target="_blank">
-  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=183989729&image_size=auto&color_scheme=dark" alt="Dashboard stats of @pouya-shaterzadeh" height="auto" />
-</a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=pouya-shaterzadeh&show_icons=true&theme=dark" alt="Pouya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-shaterzadeh&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
