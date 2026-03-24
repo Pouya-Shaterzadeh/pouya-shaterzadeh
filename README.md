@@ -34,6 +34,11 @@
   <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=Pouya-Shaterzadeh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=Pouya-Shaterzadeh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Pouya's GitHub stats" /></a>
   <a target="_blank" href="https://github-readme-streak-stats.herokuapp.com/?user=Pouya-Shaterzadeh&theme=tokyonight"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pouya-Shaterzadeh&theme=tokyonight" alt="Pouya's GitHub streak" /></a>
 </p>
+<h3>🎯 Quick Profile Facts</h3>
+<p>
+  <img src="https://img.shields.io/badge/Joined%20GitHub-2024-%230a77b6?style=for-the-badge" alt="Joined GitHub in 2024" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Pouya-Shaterzadeh&query=public_repos&label=Public%20Repos&color=0a77b6&style=for-the-badge" alt="Current public repositories" />
+</p>
 <h2>✒️ Recent Documentations</h2>
 <ul>
 <li><a target="_blank" href="https://pouya-shaterzadeh.github.io/docs/ur_reach_migration/">ROS 2 Humble to Jazzy Migration Guide for IsaacLab UR Reach</a></li>
