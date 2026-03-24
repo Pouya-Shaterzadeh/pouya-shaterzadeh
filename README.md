@@ -38,4 +38,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pouya-shaterzadeh&show_icons=true&locale=en" alt="pouya-shaterzadeh" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pouya-shaterzadeh&" alt="pouya-shaterzadeh" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pouya-shaterzadeh&show_icons=true&locale=en&layout=compact" alt="pouya-shaterzadeh" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pouya-shaterzadeh" alt="pouya-shaterzadeh" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pouya-shaterzadeh&no-frame=true&no-bg=true" alt="pouya-shaterzadeh" /></a></p>
