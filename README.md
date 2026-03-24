@@ -38,7 +38,3 @@
 <a target="_blank" href="https://www.kaggle.com/pouyashaterzadeh" style="display: inline-block;"><img src="https://img.shields.io/badge/kaggle-logo?style=for-the-badge&logo=kaggle&logoColor=white&color=%2320BEFF" alt="kaggle" /></a>
 <a target="_blank" href="https://pouya-shaterzadeh.github.io" style="display: inline-block;"><img src="https://img.shields.io/badge/website-logo?style=for-the-badge&logo=github&logoColor=white&color=%23121013" alt="website" /></a></p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pouya-shaterzadeh&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Pouya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-shaterzadeh&layout=compact&theme=dark&hide=Jupyter%20Notebook" alt="Top Languages" />
-</p>
-
