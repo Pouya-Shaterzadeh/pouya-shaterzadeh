@@ -28,6 +28,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2><span aria-hidden="true">📌</span> Most Used Languages</h2>
+<p><a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-Shaterzadeh&layout=compact&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-Shaterzadeh&layout=compact&theme=tokyonight" alt="Pouya's most used languages" /></a></p>
 <h2><span aria-hidden="true">📊</span> Stats Dashboard</h2>
 <p><a target="_blank" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pouya-Shaterzadeh&theme=tokyonight"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pouya-Shaterzadeh&theme=tokyonight" alt="Pouya's contribution details" /></a></p>
 <p>
