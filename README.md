@@ -39,5 +39,5 @@
 <a target="_blank" href="https://pouya-shaterzadeh.github.io" style="display: inline-block;"><img src="https://img.shields.io/badge/website-logo?style=for-the-badge&logo=github&logoColor=white&color=%23121013" alt="website" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pouya-shaterzadeh&show_icons=true&locale=en" alt="pouya-shaterzadeh" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pouya-shaterzadeh&" alt="pouya-shaterzadeh" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pouya-shaterzadeh&show_icons=true&locale=en&layout=compact" alt="pouya-shaterzadeh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pouya-shaterzadeh&locale=en&layout=compact&hide=html" alt="pouya-shaterzadeh" /></p>
 
